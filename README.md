@@ -13,7 +13,7 @@ Este proyecto es un clon del interfaz de inicio de Pinterest, creado puramente c
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
-
+![Demo](/imagenes/pinterestinicio.PNG)
 
 ### Contacto
 Monse Orozco: [Correo](monseorbu@gmail.com)
